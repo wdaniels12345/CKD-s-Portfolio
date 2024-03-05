@@ -1,0 +1,47 @@
+
+
+
+.container{
+  border-radius: 50%;
+  color: black;
+  width: 820px;
+  text-align: center;
+  width: 50%;
+  
+}
+
+h1 {
+  border-radius: 50%;
+  text-align:center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  text-align:center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a {
+  background-color: transparent;
+  text-decoration: none;
+}
+
+
+
+.nav-link { color:black; } /* CSS link color (red) */
+.nav-link:hover { color: purple; } /* CSS link hover (green) */
+p {
+  text-align:center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-style: italic;
+
+
+}
+
+.card-body
+{
+    background-color: transparent;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+

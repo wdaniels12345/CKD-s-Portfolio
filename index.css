@@ -1,0 +1,69 @@
+
+#container {
+    color: black;
+	width: 1000px;
+    height: 5000px;
+    margin: auto;
+}
+.profile {
+    border:2px solid black;
+    height: 300px;
+	position: relative;
+}
+
+.profileText {
+	
+    color: black;
+    text-align: center;
+    width: 1000px;
+    height: 300px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: larger;
+	padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.trade {
+    text-align: center;
+    padding-left: 2.5%;
+    padding-top: 7.5%;
+    padding-right: 5%;
+    width: 800px;
+    height: 200px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+	font-size: small;
+}
+.profileStats {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-style: italic;
+	text-align: right;
+}
+.profileStats img {
+    padding: 2%;
+	position: absolute;
+    border-radius: 50%;
+
+	right: 0px;
+	bottom: 0px;
+}
+.profileName {
+	padding-right: 98px;
+	font-size: 1.2em;
+	font-weight: bold;
+	color: #2e4672;
+}
+.profileJob {
+	font-size: 0.8em;
+	padding-right: 98px;
+	padding-top: 5px;
+	background-image: url('testimonialBlue.gif');
+	background-repeat: repeat-x;
+	height: 45px;
+	color: #FFFFFF;
+}
+.profileJob a {
+	color: #FFFFFF;
+	font-weight: bold;
+	text-decoration: none;
+}
